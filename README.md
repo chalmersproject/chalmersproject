@@ -14,4 +14,14 @@ data, allowing for faster referrals for people seeking shelters, to shelters
 with available space._
 
 - [Wiki](https://github.com/chalmersproject/chalmersproject/wiki/Chalmers-Signal)
+- [Site](https://www.chalmerscards.com/chalmerssignal/)
 - [Demo (YouTube)](https://www.youtube.com/c/vsauce1/videos)
+
+### Chalmers Cards
+
+_Weather-resistant, easy-to-understand cards that provide information about
+access to social services. They're laser cut information booklets that are
+rugged, snap onto your backpack, and smell nice!_
+
+- [Wiki](https://github.com/chalmersproject/chalmersproject/wiki/Chalmers-Cards)
+- [Site](https://www.chalmerscards.com/chalmerscards/)
